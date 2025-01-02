@@ -1,0 +1,13 @@
+.tic-tac-toe {
+    border-collapse: collapse;
+    width: 200px;
+    height: 200px;
+}
+
+.tic-tac-toe td {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 24px;
+    width: 33.33%;
+    height: 33.33%;
+}
